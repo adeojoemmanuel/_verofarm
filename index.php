@@ -101,7 +101,6 @@
 					<!-- START REVOLUTION SLIDER 5.0 auto mode -->
 						<div id="main_slider" class="rev_slider" data-version="5.0">
 							<ul>
-								
 								<!-- SLIDE1  -->
 								<li data-index='rs-377' data-transition='curtain-1' data-slotamount='1' data-easein='default' data-easeout='default' data-masterspeed='default' data-thumb='images/home/slide-1.jpg' data-rotate='0' data-saveperformance='off' data-title='Business Solutions' data-description='' >
 									<!-- MAIN IMAGE -->
@@ -1186,7 +1185,8 @@
 		<!-- Js File_________________________________ -->
 
 		<!-- j Query -->
-		<script type="text/javascript" src="js/jquery-2.1.4.js"></script>
+		<!-- <script type="text/javascript" src="js/jquery-2.1.4.js"></script> -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 		<!-- Bootstrap JS -->
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 
