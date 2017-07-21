@@ -7,7 +7,7 @@
 		<!-- For Resposive Device -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-		<title>Vero farm</title>
+		<title>Veraloe Integrated Services</title>
 		<!-- Favicon -->
 		<link rel="apple-touch-icon" sizes="57x57" href="images/fav-icon/apple-icon-57x57.png">
 
@@ -142,7 +142,7 @@
 										data-responsive_offset="on" 
 										data-elementdelay="0.05" 
 										style="z-index: 5;">
-										<h1>Vero Farm</h1>
+										<h1>Veraloe Integrated Services</h1>
 									</div>
 
 
@@ -275,7 +275,7 @@
 					                    data-splitin="none" 
 					                    data-splitout="none"                         
 					                    data-start="500">
-					                    <div class="banner-caption-h2">Vero Farm</div>                    
+					                    <div class="banner-caption-h2">Veraloe Integrated Services</div>                    
 					                </div>
 					                <div class="tp-caption tp-resizeme text-center"
 					                    data-x="center" data-hoffset="0" 
@@ -1185,8 +1185,8 @@
 		<!-- Js File_________________________________ -->
 
 		<!-- j Query -->
-		<!-- <script type="text/javascript" src="js/jquery-2.1.4.js"></script> -->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script type="text/javascript" src="js/jquery-2.1.4.js"></script>
+		<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
 		<!-- Bootstrap JS -->
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 
